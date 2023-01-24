@@ -26,7 +26,7 @@ public class EarlyAlarm {
 
         min += -45;
 
-        if( min < 0 ) { // min minus
+        if( min < 0 ) { // min minusㅁ
             hour += -1;
             min = 60 + min;
         }
